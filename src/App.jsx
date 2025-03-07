@@ -2,9 +2,9 @@
 
 const App=()=>{
   return(
-    <div>
+    <div className="bg-blue-500">
       app
-    </div>
+    </div> 
   )
 }
 export default App;
